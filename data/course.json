@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "beb1f634-ba27-4c65-46f5-1331d1affc2b",
+      "b00f00dd-4ef2-fe56-e4c6-31d03f215f81",
+      "fcd3fa1a-1a9b-29a3-4311-cc808a4a0ad0",
+      "c551a598-a10c-e844-9437-9e2473a6e445",
+      "608fbe44-e639-5be8-e69d-e00bb3b1a5b6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Graduate Technical Writing Workshop",
+  "course_description": "This course is designed to improve the student's ability to communicate technical information. It covers the basics of working with sources, including summarizing and paraphrasing, synthesizing source materials, citing, quoting, and avoiding plagiarism. It also covers how to write an abstract and a literature review. In addition, we will cover communication concepts, tools, and strategies that can help you understand how engineering texts work, and how you can make your texts work more effectively.\n\nThis course is limited to MIT graduate engineering students based on results of the [Graduate Writing Exam](https://cmsw.mit.edu/graduate-writing-exam/).\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.794",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
